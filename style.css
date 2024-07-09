@@ -1,0 +1,33 @@
+h1 {
+    text-align: center;
+    color: #A882DD;
+}
+
+.container {
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+#search {
+    color: #49416D;
+    width: 20%;
+    height: 30px;
+    font-size: 22px;
+}
+
+#btn {
+    height: 30px;
+    color: #49416D;
+
+}
+
+#facts{
+    text-align: center;
+    margin-top: 20px;
+    color: #E08D79;
+    font-size: 20px;
+}
